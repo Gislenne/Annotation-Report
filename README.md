@@ -1,7 +1,7 @@
 
 <h1 align="center"> Annotation-Report - JAVA</h1>
 
-<p>Projeto desenvolvido afim de se realizar a contabilização de produtos, produtos nomeados com a sigla gene, proteínas hipotéticas e sequencias de codificação em aquivos de genoma no formato fasta. </p>
+<p>Projeto desenvolvido afim de se realizar a contabilização de produtos, produtos nomeados com a sigla gene, proteínas hipotéticas e sequencias de codificação em aquivos de genoma com realização da anotação no formato embl. </p>
 
 ## ✨ Tecnologias utilizadas
 Esse projeto foi desenvolvido com as seguintes tecnologias:
